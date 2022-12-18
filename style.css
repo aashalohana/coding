@@ -1,0 +1,57 @@
+.c1{
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+h1{
+    color: rgb(42, 50, 165);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    border-style: solid;
+    background-color: bisque;
+
+}
+h2{
+    color: rgb(255, 105, 105);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    border-style: solid;
+    border: 150px;
+    border-radius: 10%;
+    border-color: black;
+}
+.c2{
+        list-style-type: outside;
+        list-style-type: armenian;
+        text-decoration: antiquewhite;
+        text-align: left;
+        direction: ltr;
+    
+}
+
+ol{
+    list-style: decimal;
+    font-family: verdana;
+    text-align: initial;
+    text-decoration: aqua;
+}
+ul{
+    border: 100px;
+    border-radius: 100%;
+    list-style-position: outside;
+    direction: ltr;
+}
+
+
+
+
+
+
+
