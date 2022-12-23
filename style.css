@@ -1,0 +1,63 @@
+.c1{
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+h1{
+    color: azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    border-style: solid;
+    background-color:black;
+    width: fit-content;
+
+}
+h2{
+    color:bisque;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+p{
+font-size: x-large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: azure;
+}
+body{
+    border-style: solid;
+    border: 150px;
+    border-radius: 10%;
+    border-color: black;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.97loMu2ufHqIHbc16DujfAHaEo&pid=Api&P=0);
+    background-repeat: repeat;
+
+
+}
+.c2{
+        list-style-type: outside;
+        text-align: left;
+        list-style-image: none;
+    
+}
+
+ol{
+    list-style: decimal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    color:blanchedalmond;
+    direction: inherit;
+
+}
+ul{
+    border: 100px;
+    border-radius: 100%;
+    list-style-position: outside;
+}
+
+
+
+
+
+
+
